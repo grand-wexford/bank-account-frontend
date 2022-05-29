@@ -1,0 +1,43 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid rgb(236, 236, 236);
+  flex-wrap: wrap;
+}
+
+.row div {
+  cursor: pointer;
+  margin: 10px;
+  padding: 4px 8px;
+  border-radius: 1px;
+  position: relative;
+
+}
+
+.row>div:not(:last-child)::after {
+  content: "•";
+  font-size: 1.16em;
+  display: block;
+  position: absolute;
+  top: 2px;
+  right: -13px;
+  pointer-events: none;
+}
+
+.row>div:last-child {
+  font-weight: 700;
+}
+
+.row>div:hover {
+  box-shadow: inset 0px 0px 0px 1px rgb(209, 226, 226);
+}
+
+.row .nolink {
+  opacity: 0.7;
+  cursor: default;
+}
+
+.row .nolink:hover {
+  box-shadow: none;
+}

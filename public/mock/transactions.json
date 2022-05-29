@@ -1,0 +1,227 @@
+[
+    {
+        "transactionID": "16479556",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-560",
+        "currency": "USD",
+        "transactionDate": "2022-05-26",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "16479557",
+        "cardAccount": "5489489514571236",
+        "cardID": "200",
+        "amount": "+2000",
+        "currency": "USD",
+        "transactionDate": "2022-05-26",
+        "merchantInfo": "VTB"
+    },
+    {
+        "transactionID": "16479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "300",
+        "amount": "-78",
+        "currency": "AZN",
+        "transactionDate": "2022-05-24",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "26479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "400",
+        "amount": "-15",
+        "currency": "EUR",
+        "transactionDate": "2022-05-24",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "36479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "500",
+        "amount": "-99",
+        "currency": "EUR",
+        "transactionDate": "2022-05-24",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "46479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "600",
+        "amount": "+20000",
+        "currency": "EUR",
+        "transactionDate": "2022-05-23",
+        "merchantInfo": "Alfa Bank"
+    },
+    {
+        "transactionID": "56479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "700",
+        "amount": "-78",
+        "currency": "EUR",
+        "transactionDate": "2022-05-23",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "66479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "800",
+        "amount": "-33",
+        "currency": "EUR",
+        "transactionDate": "2022-05-23",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "76479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "900",
+        "amount": "-51",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "86479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "1000",
+        "amount": "-78",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "1196479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "1100",
+        "amount": "-19",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "116479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "1200",
+        "amount": "-78",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "216479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-38",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "316479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "200",
+        "amount": "-644",
+        "currency": "EUR",
+        "transactionDate": "2022-05-22",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "300",
+        "amount": "-9",
+        "currency": "EUR",
+        "transactionDate": "2022-05-21",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "516479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-15",
+        "currency": "EUR",
+        "transactionDate": "2022-05-21",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "616479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-88",
+        "currency": "EUR",
+        "transactionDate": "2022-05-21",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "716479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "500",
+        "amount": "-500",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "816479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "200",
+        "amount": "-65",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "916479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "400",
+        "amount": "-78",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "10416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "600",
+        "amount": "-19",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "11416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "700",
+        "amount": "-76",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "12416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "800",
+        "amount": "-18",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "13416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-55",
+        "currency": "EUR",
+        "transactionDate": "2022-05-20",
+        "merchantInfo": "Amazon"
+    },
+    {
+        "transactionID": "14416479558",
+        "cardAccount": "4489489514571236",
+        "cardID": "100",
+        "amount": "-45",
+        "currency": "EUR",
+        "transactionDate": "2021-05-01",
+        "merchantInfo": "Amazon"
+    }
+]

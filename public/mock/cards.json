@@ -1,0 +1,110 @@
+[
+   {
+      "cardID": "100",
+      "cardAccount": "4489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1236",
+      "expireDate": "2026-05-01",
+      "currency": "USD",
+      "status": "active",
+      "balance": "13500"
+   },
+   {
+      "cardID": "200",
+      "cardAccount": "4489489514571236",
+      "maskedCardNumber": "•••• •••• ••••2236",
+      "expireDate": "2023-05-01",
+      "currency": "USD",
+      "status": "blocked",
+      "balance": "203500"
+   },
+   {
+      "cardID": "300",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••4236",
+      "expireDate": "2027-08-01",
+      "currency": "AZN",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "400",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••8236",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "500",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••7236",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "600",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••9236",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "700",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1836",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "800",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1136",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "900",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1436",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "1000",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1536",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "1100",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1286",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   },
+   {
+      "cardID": "1200",
+      "cardAccount": "5489489514571236",
+      "maskedCardNumber": "•••• •••• ••••1277",
+      "expireDate": "2027-08-01",
+      "currency": "EUR",
+      "status": "active",
+      "balance": "36"
+   }
+]

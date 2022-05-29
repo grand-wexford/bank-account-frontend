@@ -1,0 +1,16 @@
+.menuItem {
+  display: block;
+  margin: 0 7px;
+  background-color: #03b96c;
+  padding: 8px;
+  color: #eef1f7;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.menuItem:hover {
+  box-shadow: inset 0px 0px 0px 1px rgb(100, 147, 155);
+  background-color: #6be2b1;
+}

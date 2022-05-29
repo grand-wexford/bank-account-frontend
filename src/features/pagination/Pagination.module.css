@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row > div {
+  cursor: pointer;
+  margin-left: 4px;
+  margin-right: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: all 0.2s linear;
+}
+.row > div:hover {
+  background-color: rgb(215, 236, 236);
+  box-shadow:inset 0px 0px 0px 1px rgb(153, 184, 184);
+}
+.active {
+  background-color: rgb(229, 240, 240);
+  font-weight: 700;
+}

@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  display: inline-flex;
+  flex-direction: column;
+  margin: 12px auto;
+  flex: 800px 0 0;
+}
+
+.App-content{
+  flex-grow: 1;
+}

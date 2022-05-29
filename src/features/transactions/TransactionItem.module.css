@@ -1,0 +1,46 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 8px;
+  background-color: rgb(240, 246, 247);
+  border-radius: 4px;
+  transition: all 0.2s linear;
+}
+
+.row:hover {
+  background-color: rgb(231, 243, 245);
+  box-shadow:inset 0px 0px 0px 1px rgb(210, 210, 216);
+}
+
+.row div{
+  margin: 4px;
+}
+
+.merchantContainer {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.merchantInfo{
+  font-weight: 700;
+}
+
+.amountPlus, .amountMinus{
+  font-weight: 700;
+}
+
+.amountMinus {
+  color: rgb(156, 40, 40);
+}
+
+.amountPlus {
+  color: rgb(40, 156, 50);
+}
+
+.row:not(:last-child) {
+  margin-bottom: 16px;
+}
